@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="day2.PojoPractise">
+      <class name="day3.OrganehrmHeaders">
         <methods>
-          <include name="DeletePojouser"/>
+          <include name="OrangeHeader"/>
         </methods>
-      </class> <!-- day2.PojoPractise -->
+      </class> <!-- day3.OrganehrmHeaders -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
