@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-11T16:52:38 IST" name="Default suite" finished-at="2025-04-11T16:52:41 IST" duration-ms="3702">
+  <suite started-at="2025-04-14T20:08:49 IST" name="Default suite" finished-at="2025-04-14T20:08:51 IST" duration-ms="2081">
     <groups>
     </groups>
-    <test started-at="2025-04-11T16:52:38 IST" name="Default test" finished-at="2025-04-11T16:52:41 IST" duration-ms="3702">
-      <class name="day3.OrganehrmHeaders">
-        <test-method signature="OrangeHeader()[pri:1, instance:day3.OrganehrmHeaders@76a4ebf2]" started-at="2025-04-11T16:52:38 IST" name="OrangeHeader" finished-at="2025-04-11T16:52:40 IST" duration-ms="2606" status="PASS">
+    <test started-at="2025-04-14T20:08:49 IST" name="Default test" finished-at="2025-04-14T20:08:51 IST" duration-ms="2081">
+      <class name="day4.ParsingJSONResponseData">
+        <test-method signature="testJsonResponse2()[pri:2, instance:day4.ParsingJSONResponseData@1530c739]" started-at="2025-04-14T20:08:49 IST" name="testJsonResponse2" finished-at="2025-04-14T20:08:51 IST" duration-ms="2037" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- OrangeHeader -->
-        <test-method signature="getOrangeHeaders()[pri:2, instance:day3.OrganehrmHeaders@76a4ebf2]" started-at="2025-04-11T16:52:40 IST" name="getOrangeHeaders" finished-at="2025-04-11T16:52:41 IST" duration-ms="1056" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getOrangeHeaders -->
-      </class> <!-- day3.OrganehrmHeaders -->
+        </test-method> <!-- testJsonResponse2 -->
+      </class> <!-- day4.ParsingJSONResponseData -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
