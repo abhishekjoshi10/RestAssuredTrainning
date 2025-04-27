@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-14T20:08:49 IST" name="Default suite" finished-at="2025-04-14T20:08:51 IST" duration-ms="2081">
+  <suite started-at="2025-04-27T17:36:10 IST" name="Default suite" finished-at="2025-04-27T17:36:11 IST" duration-ms="1073">
     <groups>
     </groups>
-    <test started-at="2025-04-14T20:08:49 IST" name="Default test" finished-at="2025-04-14T20:08:51 IST" duration-ms="2081">
-      <class name="day4.ParsingJSONResponseData">
-        <test-method signature="testJsonResponse2()[pri:2, instance:day4.ParsingJSONResponseData@1530c739]" started-at="2025-04-14T20:08:49 IST" name="testJsonResponse2" finished-at="2025-04-14T20:08:51 IST" duration-ms="2037" status="PASS">
+    <test started-at="2025-04-27T17:36:10 IST" name="Default test" finished-at="2025-04-27T17:36:11 IST" duration-ms="1073">
+      <class name="day5.FileDownload">
+        <test-method signature="validateFileDownload()[pri:0, instance:day5.FileDownload@5b1669c0]" started-at="2025-04-27T17:36:10 IST" name="validateFileDownload" finished-at="2025-04-27T17:36:11 IST" duration-ms="1041" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testJsonResponse2 -->
-      </class> <!-- day4.ParsingJSONResponseData -->
+        </test-method> <!-- validateFileDownload -->
+      </class> <!-- day5.FileDownload -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
